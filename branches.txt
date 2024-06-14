@@ -1,2 +1,5 @@
 This is to understand New Branch
 We are in main now
+Now we have created a new branch called <NewBranch>
+For this we have first taken the folder <NEWBRANCH> out from the folder <Anime>
+And created a clear path for thi folder to be commanded using git
